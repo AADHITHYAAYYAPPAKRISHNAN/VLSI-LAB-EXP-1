@@ -29,7 +29,8 @@ not(notgate,a);
 endmodule
 ```
 ### Output:
-![LOGIC GATES](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/3c433290-2fc2-407d-90e4-1e1c24758fb0)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/36feff0c-2647-4f6c-bd7a-321b994608ca)
+
 
 
 ## Half Adder:
@@ -48,7 +49,8 @@ and g2(carry,a,b);
 endmodule
 ```
 ### Output:
-![Screenshot 2024-02-17 134320](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/8251c978-56b6-4c86-9d0f-de057f5664ec)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/38c6ec27-3cd9-4fe4-818b-e9481cf709a3)
+
 
 ## Full adder:
 
@@ -71,7 +73,7 @@ endmodule
 ```
 ### Output:
 
-![Screenshot 2024-02-17 141627](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/90529bb3-c1dc-4ae2-8b1f-4b94e6afd20a)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/dc742bfc-a88f-42fb-8ae3-db91ce112667)
 
 ## Half Subtractor:
 
@@ -92,7 +94,8 @@ endmodule
 
 ### Output:
 
-![Screenshot 2024-02-17 140420](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/087e940b-db2a-4c33-a302-a3cf30a1f4b6)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/30b41384-0ba4-49cd-ae3c-e77dfd31df56)
+
 
 ## Full Subtractor:
 
@@ -117,7 +120,7 @@ endmodule
 
 ### Output:
 
-![FSUB](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/3597c920-691b-424c-937a-42720ff66df0)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/3edb3965-5eb6-47df-8414-e77e276c0131)
 
 ## 8 Bit Ripple Carry Adder:
 
@@ -157,7 +160,8 @@ endmodule
 
 ### Output:
 
-![rca](https://github.com/Dhinesh0024/VLSI-LAB-EXP-1/assets/160568927/e90aa804-085f-489b-8ebc-eda7686ec7b3)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-1/assets/159053561/bbb870ab-f92f-4da3-87ed-13f5c1cf3762)
+
 
 
 ## RESULT:
